@@ -362,7 +362,6 @@ a:active {
 /* Modern */
 .theme-color-modern #masthead {
 	background-color: ;
-	background-image: url(img/presentsbg-light.jpg);
 }
 .theme-color-modern .main-navigation {
 	background-color: #199eb8;
@@ -375,12 +374,6 @@ a:active {
 }
 .theme-color-modern .main-small-navigation .menu {
 	background-color: #1caac6;
-}
-.theme-color-modern .site-footer .sep {
-	background-image: url(img/wplogo-light.png);
-}
-.theme-color-modern .site-footer:after {
-	background-image: url(img/presents-light.jpg);
 }
 .theme-color-modern .entry-title,
 .theme-color-modern .entry-title a,
